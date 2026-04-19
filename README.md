@@ -4,7 +4,7 @@ An intelligent, AI-powered learning and upskilling platform serving users dynami
 ## 📝 Overview
 SkillSphere acts as your personal technical mentor by offering dynamic roadmaps, concept deep-dives, automated evaluations, and a gamified learning experience. From creating a personalized profile to completing AI-driven quizzes and downloading certificates, SkillSphere scales your growth organically.
 
-*Built by THE INNOVATORS (Kartik Shete, Purva Lad, Chanksha Patil, Sunil Kumbhar, Shriram Jagdale)*
+*Built by THE INNOVATORS (Kartik Shete, Purva Lad, Chanksha Patil, Sunil Kumbhar, Pratik Lakde)*
 
 ## ✨ Key Features
 - **Dynamic SkillPrints**: Let AI suggest projects tailored to your level.
@@ -64,6 +64,8 @@ npm run dev
 3. Run `npm run deploy`.
 
 ## 👨‍💻 Contributors
-- **Kartik Shete** 
+- **Kartik Shete** (kartikshete1698@gmail.com)
 - **Purva Lad** (purvalad42@gmail.com)
-- **Team Innovators** (Chanksha Patil, Sunil Kumbhar, Shriram Jagdale)
+- **Chanaksha Patil** (chanakshapatil11@gmail.com)
+- **Pratik Lakde** (lakadepratik2121@gmail.com)
+- **Team Innovators** (Sunil Kumbhar)
