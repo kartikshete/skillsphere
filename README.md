@@ -68,4 +68,4 @@ npm run dev
 - **Purva Lad** (purvalad42@gmail.com)
 - **Chanaksha Patil** (chanakshapatil11@gmail.com)
 - **Pratik Lakde** (lakadepratik2121@gmail.com)
-- **Team Innovators** (Sunil Kumbhar)
+- **Sunil Kumbhar** (sunilkumbhar0097@gmail.com)
