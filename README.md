@@ -63,5 +63,7 @@ npm run dev
 2. Add deployment scripts to your `package.json`.
 3. Run `npm run deploy`.
 
-## 👨‍💻 Developer
-**Kartik Shete & Team Innovators**
+## 👨‍💻 Contributors
+- **Kartik Shete** 
+- **Purva Lad** (purvalad42@gmail.com)
+- **Team Innovators** (Chanksha Patil, Sunil Kumbhar, Shriram Jagdale)
