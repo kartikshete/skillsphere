@@ -17,6 +17,22 @@ SkillSphere acts as your personal technical mentor by offering dynamic roadmaps,
 - Frontend: `React`, `Vite`, `Tailwind CSS`
 - Backend: `Node.js`, `Express.js`, `OpenAI / Gemini Integrations`
 
+## 🏗 System Architecture
+The application follows a decoupled client-server architecture with integrated AI services.
+
+- **Frontend (Client)**: Built with React and Vite. It handles the UI, gamification logic, user profiles, and stores all session state locally in `localStorage` for zero-latency interactions.
+- **Backend (Server)**: A Node.js and Express server that acts as a secure proxy to process AI-related requests.
+- **AI Engine**: Interfaces with Gemini/OpenAI to generate dynamic content such as SkillPrints, quizzes, and chatbot responses.
+
+```mermaid
+graph TD;
+    User([User]) --> Client[Frontend: React + Vite];
+    Client <-->|Local State| LocalStorage[(localStorage)];
+    Client <-->|API Calls| Server[Backend: Node.js + Express];
+    Server <-->|Prompts & Data| AIEngine[AI Engine Wrapper];
+    AIEngine <-->|API| LLM((OpenAI / Gemini));
+```
+
 ## 🚀 Getting Started
 Ensure you have set your `GEMINI_API_KEY` and `OPENAI_API_KEY` in the `server/.env` file.
 
